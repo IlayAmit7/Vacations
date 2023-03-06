@@ -1,0 +1,25 @@
+.Home {
+    background-image: url("../../../Assets/Images/33.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+    height: 100%;
+    background-position: center;
+    color: white;
+
+}
+
+body, html {
+    height: 100%;
+  }
+
+.Home > .AddVacation {
+    position: absolute;
+    right: 30px;
+    top: 100px;
+}
+
+.MuiList-root {
+    width: 350px;
+
+}
+
